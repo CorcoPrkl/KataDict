@@ -1,0 +1,26 @@
+{
+  "name": "KataDict",
+  "version": "1.0.0",
+  "description": "Kata as described on http://codingdojo.org/kata/DictionaryReplacer/",
+  "keywords": [
+    "Node.js",
+    "application",
+    "Kata"    
+  ],
+  "author": {
+    "name": "Aki Karppanen",
+    "email": "akarppanen@hotmail.com"    
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "main": "KataDict.js"
+}
